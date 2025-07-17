@@ -1,0 +1,19 @@
+# Node modules (frontend)
+frontend/node_modules/
+frontend/dist/
+
+# Python cache
+backend/__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment files (if you add any later)
+*.env
+
+# macOS system files
+.DS_Store
+
+# SQLite or any generated DB
+*.sqlite3
+*.db
