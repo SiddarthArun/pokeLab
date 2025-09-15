@@ -1,4 +1,5 @@
 # pokeLab – Pokémon Team Builder
+## Video demo at: https://youtu.be/dbJWF16tDQQ
 
 A full-stack web app that lets users explore Pokémon, build and save teams, analyze them, and manage them using a clean interface.
 
